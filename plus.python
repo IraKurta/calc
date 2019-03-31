@@ -1,0 +1,19 @@
+a = float (input())
+b = input()
+c = float(input())
+
+
+if b == '+';
+   print(a + c);
+if b == '-';
+   print(a - c);
+if b == '*';
+   print(a * c);
+if b == '/' and c == 0;
+   print('Ділення на 0!');
+elif b == '/' and c != 0;
+   print(a / c);
+if b == 'ex';
+   print(a ** c);
+
+
